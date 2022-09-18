@@ -5,4 +5,5 @@
   height: 60vh;
   width: 60vh;
   padding: 30px;
+  flex-direction: column;
 }
