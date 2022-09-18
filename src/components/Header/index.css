@@ -1,0 +1,38 @@
+.header-main-container {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  width: 100%;
+}
+
+.logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 150px;
+  margin: 50px;
+}
+
+.logoImage {
+  height: 50px;
+}
+.HeaderMenu {
+  display: flex;
+  width: 250px;
+  justify-content: space-between;
+  margin-right: 40px;
+  list-style: none;
+  align-items: center;
+  padding-top: 20px;
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+}
+
+.headerButton {
+  background-color: transparent;
+  border: none;
+  font: 20px;
+  cursor: pointer;
+}
