@@ -1,1 +1,8 @@
-/* Write your CSS code here */
+.notFound-main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  width: 60vh;
+  padding: 30px;
+}
